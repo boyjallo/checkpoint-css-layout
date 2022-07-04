@@ -1,0 +1,177 @@
+#navbar{
+    display: flex;
+}
+#navbar{
+    justify-content: space-between;
+    position: relative;
+    list-style: none;
+}
+header{
+	width: 80%;
+	margin-left: 10%;
+}
+#navbar a{
+    text-decoration: none;
+    color: darkgray;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin:0 5px;
+    padding: 0px 9px;
+}
+#navbar ul li{
+    display: flex;
+}
+#navbar ul li{
+    list-style: none;
+    display: inline;
+    margin: 0 15px;
+}
+.logo{
+    display: flex;
+    margin: 0 650px;
+    padding: 0 10px;
+}
+.color{
+    color: #00BFA5;
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+.abouts-us{
+    color: #747474;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 15px;
+}
+.color{
+    color: #00BFA5;
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+.col-3{
+    background-color: #00BFA5;
+    font-family: "Work Sans" , Arial, sans empattement ;
+    font-size: 23px;
+    margin: 15px;
+    color: white;
+    border-radius: 1em;
+    height: 330px;
+}
+#fordoctors{
+    background-color: #508FE2;
+}
+#fordoctors p {
+    font-size: 23px;
+}
+#forclinics{
+    background-color: #323C48;
+}
+#forclinics p {
+    font-size: 23px;
+}
+#option1{
+	background-color: #00BFA5;
+}
+#option2{
+	background-color: #508FE2;
+}
+#option3{
+	background-color:  #323C48;
+}
+.brands{
+    display: flex;
+    width: 90%;
+    margin-left: 10%;
+    color: #747474;
+}
+.tuotempo{
+	height: 20px;
+}
+.brands h1{
+    margin: 6.5px 0px 9.1px;
+    padding: 0px 26px 0px 0px;
+    color: #00BFA5;
+    font-size: 25px;
+}
+ul.brands__logos{
+    color: #747474;
+}
+ul li{
+    margin: 28px;
+    font-size: 16px;
+}
+.brands__logos li {
+    color: #747474;
+    font-size: 1rem;
+    display: inline-block;
+    margin-top: 0;
+    padding: 5px 0 5px 5px;
+    width: auto;
+}
+.brands__logos{
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style: none;
+}
+.grid{
+	display: flex;
+	width: 80%;
+	margin-left: 10%;
+}
+.stats{
+	background-color: #D8F6F5;
+	margin: 	50px 0px 88px;
+	padding: 	30px 0px 10px;
+}
+.stats h1{
+	color: #00CCB1;
+	font-size: 25px;
+}
+div.col-2{
+    margin: 10px;
+	padding: 	10px;
+}
+div.stats__item{
+	padding: 	15px;
+}
+.stats__item {
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 1px 4px 0 rgb(0 0 0 / 5%);
+    height: 250px;
+    text-align: center;
+    padding: 15px;
+    font-size: .8125em;
+    display: inline-block;
+}
+#titre{
+    color: #00BFA5;
+    font-family: "Work Sans", Arial, sans-serif;
+}
+.office{
+    text-align: center;
+}
+#para{
+    color: #747474;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 15px;
+}
+.card{
+    margin: 15px;
+    border-radius: 1em;
+    width: 100px;
+    color: darkgray;
+}
+.join{
+    font-family: "Work Sans", Arial, sans-serif;
+    color: darkgrey;
+    text-align: center;
+    padding: 100px;
+}
+.pied{
+    text-align: center;
+    color: darkgrey;
+    font-family: sans-serif;
+    font-size: small;
+}
